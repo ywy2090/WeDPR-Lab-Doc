@@ -6,7 +6,7 @@
 
 WeDPR中，每个用户可创建多个项目空间，用户仅可见自己创建的项目，项目空间不可共享给其他用户使用。如下图，项目空间主要提供了创建项目、查询项目和删除项目的功能：
 
-![](../../images/manual/introduction/project/project.png)
+![](../../images/manual/project/project.png)
 
 ## 3.1 创建项目
 
